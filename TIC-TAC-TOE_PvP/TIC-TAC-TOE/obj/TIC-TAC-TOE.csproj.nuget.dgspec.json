@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jonah\\Desktop\\GIT\\tic-tac-toe-csharp\\TIC-TAC-TOE_PvAI\\TIC-TAC-TOE\\TIC-TAC-TOE.csproj": {}
+    "C:\\Users\\Jonah\\Desktop\\GIT\\tic-tac-toe-csharp\\TIC-TAC-TOE_PvP\\TIC-TAC-TOE\\TIC-TAC-TOE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jonah\\Desktop\\GIT\\tic-tac-toe-csharp\\TIC-TAC-TOE_PvAI\\TIC-TAC-TOE\\TIC-TAC-TOE.csproj": {
+    "C:\\Users\\Jonah\\Desktop\\GIT\\tic-tac-toe-csharp\\TIC-TAC-TOE_PvP\\TIC-TAC-TOE\\TIC-TAC-TOE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jonah\\Desktop\\GIT\\tic-tac-toe-csharp\\TIC-TAC-TOE_PvAI\\TIC-TAC-TOE\\TIC-TAC-TOE.csproj",
+        "projectUniqueName": "C:\\Users\\Jonah\\Desktop\\GIT\\tic-tac-toe-csharp\\TIC-TAC-TOE_PvP\\TIC-TAC-TOE\\TIC-TAC-TOE.csproj",
         "projectName": "TIC-TAC-TOE",
-        "projectPath": "C:\\Users\\Jonah\\Desktop\\GIT\\tic-tac-toe-csharp\\TIC-TAC-TOE_PvAI\\TIC-TAC-TOE\\TIC-TAC-TOE.csproj",
+        "projectPath": "C:\\Users\\Jonah\\Desktop\\GIT\\tic-tac-toe-csharp\\TIC-TAC-TOE_PvP\\TIC-TAC-TOE\\TIC-TAC-TOE.csproj",
         "packagesPath": "C:\\Users\\Jonah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jonah\\Desktop\\GIT\\tic-tac-toe-csharp\\TIC-TAC-TOE_PvAI\\TIC-TAC-TOE\\obj\\",
+        "outputPath": "C:\\Users\\Jonah\\Desktop\\GIT\\tic-tac-toe-csharp\\TIC-TAC-TOE_PvP\\TIC-TAC-TOE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

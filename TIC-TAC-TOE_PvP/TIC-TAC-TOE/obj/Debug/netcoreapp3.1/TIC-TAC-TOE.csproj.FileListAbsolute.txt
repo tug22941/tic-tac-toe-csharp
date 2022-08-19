@@ -1,0 +1,16 @@
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\netcoreapp3.1\TIC-TAC-TOE.csproj.AssemblyReference.cache
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.frmBoard.resources
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\netcoreapp3.1\TIC-TAC-TOE.csproj.GenerateResource.cache
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\netcoreapp3.1\TIC-TAC-TOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\netcoreapp3.1\TIC-TAC-TOE.AssemblyInfoInputs.cache
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\netcoreapp3.1\TIC-TAC-TOE.AssemblyInfo.cs
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\netcoreapp3.1\TIC-TAC-TOE.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\netcoreapp3.1\TIC-TAC-TOE.exe
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\netcoreapp3.1\TIC-TAC-TOE.deps.json
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\netcoreapp3.1\TIC-TAC-TOE.runtimeconfig.json
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\netcoreapp3.1\TIC-TAC-TOE.runtimeconfig.dev.json
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\netcoreapp3.1\TIC-TAC-TOE.dll
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\netcoreapp3.1\TIC-TAC-TOE.pdb
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\netcoreapp3.1\TIC-TAC-TOE.dll
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\netcoreapp3.1\TIC-TAC-TOE.pdb
+C:\Users\Jonah\Desktop\TIC-TAC-TOE\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\netcoreapp3.1\TIC-TAC-TOE.genruntimeconfig.cache
